@@ -1,0 +1,19 @@
+# Ignore the virtual environment
+env/
+venv/
+ENV/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local system files
+.DS_Store
+Thumbs.db
+
+# Ignore training weights or giant data files (to keep GitHub repository small)
+data/raw/
+data/processed/
+saved_models/
