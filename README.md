@@ -13,6 +13,10 @@ This project explores Natural Language Processing approaches for detecting and c
 - Used the Lexique383 lexical resource for French vocabulary data.
 - Compared supervised neural correction with language-model-based strategies.
 
+## Repository status
+
+This repository publishes the Seq2Seq LSTM architecture and configuration. It does not yet include the training pipeline, model weights, or a reproducible inference example. Held-out metrics and baseline results are pending publication.
+
 ## Technologies
 
 - Python
